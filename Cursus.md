@@ -1,6 +1,6 @@
 # ● Circle 0
 
-## Libft ![Bonus](https://img.shields.io/badge/🌟_Completed_with_Bonus-brightgreen) 
+## Libft ![Bonus](https://img.shields.io/badge/🌟_Completed_with_Bonus-brightgreen) ![Score](https://img.shields.io/badge/125/100-green) 
 
 Validated on **May 13th 2025**
 
@@ -10,13 +10,13 @@ Validated on **May 13th 2025**
 
 # ● Circle 1
 
-## Get_next_line ![Bonus](https://img.shields.io/badge/🌟_Completed_with_Bonus-brightgreen) 
+## Get_next_line ![Bonus](https://img.shields.io/badge/🌟_Completed_with_Bonus-brightgreen) ![Score](https://img.shields.io/badge/125/100-green) 
 
-Validated on **June 3rd 2025**
+Validated on **June 3rd 2025** 
 
 [Explained by Rorschach](https://github.com/baderelg/Get_next_line)
 
-## Born2BeRoot ![Bonus](https://img.shields.io/badge/🌟_Completed_with_Bonus-brightgreen) 
+## Born2BeRoot ![Bonus](https://img.shields.io/badge/🌟_Completed_with_Bonus-brightgreen) ![Score](https://img.shields.io/badge/125/100-green) 
 
 Validated on **June 5th 2025**
 
