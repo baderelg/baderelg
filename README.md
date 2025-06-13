@@ -11,19 +11,15 @@ Instead of just reading about the projects requirements, **experience** them thr
 
 [![Libft by Ted Lasso](https://i.imgur.com/IoNOWDF.png)](https://github.com/baderelg/Libft)
 [![Get_next_line by Rorschach](https://i.imgur.com/WKQYXVj.png)](https://github.com/baderelg/Get_next_line)
+[![Born2BeRoot by Saul Goodman](https://i.imgur.com/RwGc8nW.png)](https://github.com/baderelg/Born2beRoot)
 
 ---
 
 
-## ☕ (Coming Soon)
+## 🔮 (Coming Soon)
 
-### Born2BeRoot
-
-![character tag](https://img.shields.io/badge/Explained_by-Saul_Goodman-green)
-![status tag](https://img.shields.io/badge/Status-🚧_In_Progress-yellow)
-
-### Ft_Printf
-![character tag](https://img.shields.io/badge/Explained_by-Don_Quixote_Doflamingo-pink)
+### Ft_Printf (no bonus)
+![character tag](https://img.shields.io/badge/Explained_by-Donquixote_Doflamingo-pink)
 ![status tag](https://img.shields.io/badge/Status-🚧_In_Progress-yellow)
 
 ### Push Swap
