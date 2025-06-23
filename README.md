@@ -9,27 +9,43 @@ Instead of just reading about the projects requirements, **experience** them thr
 
 ---
 
-[![Libft by Ted Lasso](https://i.imgur.com/IoNOWDF.png)](https://github.com/baderelg/Libft)
-[![Get_next_line by Rorschach](https://i.imgur.com/WKQYXVj.png)](https://github.com/baderelg/Get_next_line)
-[![Born2BeRoot by Saul Goodman](https://i.imgur.com/RwGc8nW.png)](https://github.com/baderelg/Born2beRoot)
+<p align="center">
+  <a href="https://github.com/baderelg/Libft">
+    <img src="https://i.imgur.com/IoNOWDF.png" alt="Libft by Ted Lasso" width="700">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/baderelg/Get_next_line">
+    <img src="https://i.imgur.com/WKQYXVj.png" alt="Get_next_line by Rorschach" width="700">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/baderelg/Born2beRoot">
+    <img src="https://i.imgur.com/RwGc8nW.png" alt="Born2BeRoot by Saul Goodman" width="700">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/baderelg/ft_printf">
+    <img src="https://i.imgur.com/qwaS1UE.png" alt="ft_printf by Doflamingo" width="700">
+  </a>
+</p>
 
 ---
 
 
 ## 🔮 (Coming Soon)
 
-### Ft_Printf (no bonus)
-![character tag](https://img.shields.io/badge/Explained_by-Donquixote_Doflamingo-pink)
-![status tag](https://img.shields.io/badge/Status-🚧_In_Progress-yellow)
+### Minitalk ![character tag](https://img.shields.io/badge/Explained_by_Lord_Varys-gray)
+![status tag](https://img.shields.io/badge/🚧_In_Progress-yellow)
+
+### Pipex ![character tag](https://img.shields.io/badge/Explained_by_Littlefinger-gray)
+![status tag](https://img.shields.io/badge/⏳_TBD-orange)
 
 ### Push Swap
-![status tag](https://img.shields.io/badge/Status-⏳_TBD-orange)
-
-### Minitalk
-![status tag](https://img.shields.io/badge/Status-⏳_TBD-orange)
-
-### Pipex
-![status tag](https://img.shields.io/badge/Status-⏳_TBD-orange)
+![status tag](https://img.shields.io/badge/⏳_TBD-orange)
 
 ### So_Long
-![status tag](https://img.shields.io/badge/Status-⏳_TBD-orange)
+![status tag](https://img.shields.io/badge/⏳_TBD-orange)
