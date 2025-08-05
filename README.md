@@ -33,19 +33,25 @@ Instead of just reading about the projects requirements, **experience** them thr
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/baderelg/Minitalk">
+    <img src="https://i.imgur.com/NCN1FnJ.png" alt="Minitalk by Lord Varys" width="700">
+  </a>
+</p>
+
 ---
 
 
 ## 🔮 (Coming Soon)
 
-### Minitalk ![character tag](https://img.shields.io/badge/Explained_by_Lord_Varys-gray)
+### Push Swap ![character tag](https://img.shields.io/badge/Explained_by_Shikamaru_Nara-gray)
 ![status tag](https://img.shields.io/badge/🚧_In_Progress-yellow)
 
 ### Pipex ![character tag](https://img.shields.io/badge/Explained_by_Littlefinger-gray)
 ![status tag](https://img.shields.io/badge/⏳_TBD-orange)
 
-### Push Swap
+### So_Long
 ![status tag](https://img.shields.io/badge/⏳_TBD-orange)
 
-### So_Long
+### Fract-ol
 ![status tag](https://img.shields.io/badge/⏳_TBD-orange)
