@@ -39,19 +39,22 @@ Instead of just reading about the projects requirements, **experience** them thr
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/baderelg/Push_swap">
+    <img src="https://i.imgur.com/qdZMid2.png" alt="Push_swap by Shikamaru" width="700">
+  </a>
+</p>
+
 ---
 
 
 ## 🔮 (Coming Soon)
 
-### Push Swap ![character tag](https://img.shields.io/badge/Explained_by_Shikamaru_Nara-gray)
+### Fract-ol ![character tag](https://img.shields.io/badge/Explained_by_Sans-gray)
 ![status tag](https://img.shields.io/badge/🚧_In_Progress-yellow)
 
 ### Pipex ![character tag](https://img.shields.io/badge/Explained_by_Littlefinger-gray)
 ![status tag](https://img.shields.io/badge/⏳_TBD-orange)
 
 ### So_Long
-![status tag](https://img.shields.io/badge/⏳_TBD-orange)
-
-### Fract-ol
 ![status tag](https://img.shields.io/badge/⏳_TBD-orange)
