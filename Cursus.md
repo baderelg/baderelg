@@ -22,7 +22,7 @@ Validated on **June 5th 2025**
 
 [Explained by Saul Goodman](https://github.com/baderelg/Born2beRoot)
 
-## Printf  ![Bonus](https://img.shields.io/badge/🌟_Completed_with_Bonus-brightgreen) ![Score](https://img.shields.io/badge/100/100-green) 
+## Printf  ![Bonus](https://img.shields.io/badge/🌟_Completed-green) ![Score](https://img.shields.io/badge/100/100-green) 
 
 Validated on **June 29th 2025**
 
@@ -32,7 +32,9 @@ Validated on **June 29th 2025**
 
 # ● Circle 2
 
-## Minitalk ![Awaiting Evaluation](https://img.shields.io/badge/🕵️_Awaiting_Evaluation-blue)
+## Minitalk ![Bonus](https://img.shields.io/badge/🌟_Completed_with_Bonus-brightgreen) ![Score](https://img.shields.io/badge/125/100-brightgreen) 
+
+Validated on **September 1st 2025**
 
 [Explained by Lord Varys](https://github.com/baderelg/Minitalk)
 
