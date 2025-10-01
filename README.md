@@ -1,4 +1,4 @@
-# 📘 42 Projects: The "Explained By" collection
+# 42 Projects: The "Explained By" collection
 
 Welcome to my personal breakdown of the 42 common core projects where each project is narrated by iconic characters.\
 Instead of just reading about the projects requirements, **experience** them through personas that match their logic.
@@ -45,16 +45,8 @@ Instead of just reading about the projects requirements, **experience** them thr
   </a>
 </p>
 
----
-
-
-## 🔮 (Coming Soon)
-
-### Fract-ol ![character tag](https://img.shields.io/badge/Explained_by_Sans-gray)
-![status tag](https://img.shields.io/badge/🚧_In_Progress-yellow)
-
-### Pipex ![character tag](https://img.shields.io/badge/Explained_by_Littlefinger-gray)
-![status tag](https://img.shields.io/badge/⏳_TBD-orange)
-
-### So_Long
-![status tag](https://img.shields.io/badge/⏳_TBD-orange)
+<p align="center">
+  <a href="https://github.com/baderelg/Fractol">
+    <img src="https://i.imgur.com/ek9pvD4.png" alt="Fractol by Johnny Silverhand" width="700">
+  </a>
+</p>
