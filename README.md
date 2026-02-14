@@ -50,3 +50,9 @@ Instead of just reading about the projects requirements, **experience** them thr
     <img src="https://i.imgur.com/ek9pvD4.png" alt="Fractol by Johnny Silverhand" width="700">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/baderelg/Philosophers">
+    <img src="https://i.imgur.com/OnkMrq8.png" alt="Fractol by Eleanor" width="700">
+  </a>
+</p>
