@@ -1,0 +1,157 @@
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Glow (completed 😎) -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Glow (awaiting) -->
+    <filter id="circleGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="800" fill="#0d1117"/>
+  
+  <!-- Rings -->
+  <circle cx="400" cy="400" r="350" fill="none" stroke="#1e3a5f" stroke-width="1" opacity="0.3"/>
+  <circle cx="400" cy="400" r="290" fill="none" stroke="#1e3a5f" stroke-width="1" opacity="0.4"/>
+  <circle cx="400" cy="400" r="230" fill="none" stroke="#1e3a5f" stroke-width="1" opacity="0.5"/>
+  <circle cx="400" cy="400" r="170" fill="none" stroke="#0d9488" stroke-width="1" opacity="0.6"/>
+  <circle cx="400" cy="400" r="110" fill="none" stroke="#0d9488" stroke-width="1.5" opacity="0.8"/>
+  <circle cx="400" cy="400" r="50" fill="none" stroke="#0d9488" stroke-width="2" opacity="1"/>
+    
+  <!-- ==================== CIRCLE 0 ==================== -->
+  <g filter="url(#glow)">
+    <circle cx="400" cy="400" r="38" fill="#065f46" stroke="#10b981" stroke-width="2.5"/>
+    <text x="400" y="396" text-anchor="middle" fill="#ecfdf5" font-family="system-ui, sans-serif" font-size="12" font-weight="bold">Libft</text>
+    <text x="400" y="412" text-anchor="middle" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="10">125</text>
+  </g>
+  
+  <!-- ==================== CIRCLE 1 ==================== -->
+  <!-- GNL (270°) -->
+  <g filter="url(#glow)">
+    <circle cx="400" cy="290" r="30" fill="#065f46" stroke="#10b981" stroke-width="2"/>
+    <text x="400" y="286" text-anchor="middle" fill="#ecfdf5" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">GNL</text>
+    <text x="400" y="300" text-anchor="middle" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="9">125</text>
+  </g>
+  
+  <!-- B2BR (210° | x=400+110*cos(210°)=305, y=400+110*sin(210°)=455 -->
+  <g filter="url(#glow)">
+    <circle cx="305" cy="455" r="30" fill="#065f46" stroke="#10b981" stroke-width="2"/>
+    <text x="305" y="451" text-anchor="middle" fill="#ecfdf5" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">B2BR</text>
+    <text x="305" y="465" text-anchor="middle" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="9">125</text>
+  </g>
+  
+  <!-- Printf (330°) | x=400+110*cos(-30°)=495, y=400+110*sin(-30°)=345 -->
+  <g filter="url(#glow)">
+    <circle cx="495" cy="455" r="30" fill="#1e40af" stroke="#3b82f6" stroke-width="2"/>
+    <text x="495" y="451" text-anchor="middle" fill="#eff6ff" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">Printf</text>
+    <text x="495" y="465" text-anchor="middle" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="9">100</text>
+  </g>
+  
+  <!-- ==================== CIRCLE 2 ==================== -->
+  <!-- Minitalk (315°) | x=400+170*cos(-45°)=520, y=400+170*sin(-45°)=280 -->
+  <g filter="url(#glow)">
+    <circle cx="520" cy="280" r="30" fill="#065f46" stroke="#10b981" stroke-width="2"/>
+    <text x="520" y="276" text-anchor="middle" fill="#ecfdf5" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">Minitalk</text>
+    <text x="520" y="290" text-anchor="middle" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="9">125</text>
+  </g>
+  
+  <!-- Push_swap (180°) | x=400+170*cos(180°)=230, y=400+170*sin(180°)=400 -->
+  <g filter="url(#glow)">
+    <circle cx="230" cy="400" r="30" fill="#065f46" stroke="#10b981" stroke-width="2"/>
+    <text x="230" y="396" text-anchor="middle" fill="#ecfdf5" font-family="system-ui, sans-serif" font-size="9" font-weight="bold">Push_swap</text>
+    <text x="230" y="410" text-anchor="middle" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="9">125</text>
+  </g>
+  
+  <!-- Fract-ol (90°) | x=400+170*cos(90°)=400, y=400+170*sin(90°)=570 -->
+  <g filter="url(#glow)">
+    <circle cx="400" cy="570" r="30" fill="#065f46" stroke="#10b981" stroke-width="2"/>
+    <text x="400" y="566" text-anchor="middle" fill="#ecfdf5" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">Fract-ol</text>
+    <text x="400" y="580" text-anchor="middle" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="9">125</text>
+  </g>
+  
+  <!-- ==================== CIRCLE 3 ==================== -->
+  <!-- Philosophers (225°) | x=400+230*cos(225°)=237, y=400+230*sin(225°)=237 -->
+  <g filter="url(#glow)">
+    <circle cx="237" cy="237" r="30" fill="#1e40af" stroke="#3b82f6" stroke-width="2"/>
+    <text x="237" y="233" text-anchor="middle" fill="#eff6ff" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">Philosophers</text>
+    <text x="237" y="247" text-anchor="middle" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="9">100</text>
+  </g>
+  
+  <!-- Minishell (20°) | x=400+230*cos(20°)=616, y=400+230*sin(20°)=479 -->
+  <g filter="url(#circleGlow)">
+    <circle cx="616" cy="479" r="30" fill="#1e3a5f" stroke="#0ea5e9" stroke-width="2"/>
+    <text x="616" y="475" text-anchor="middle" fill="#e0f2fe" font-family="system-ui, sans-serif" font-size="9" font-weight="bold">Minishell</text>
+    <text x="616" y="489" text-anchor="middle" fill="#7dd3fc" font-family="system-ui, sans-serif" font-size="9">⏳</text>
+  </g>
+  
+  <!-- ==================== CIRCLE 4 ==================== -->
+  <!-- Netpractice (145°) | x=400+290*cos(145°)=163, y=400+290*sin(145°)=566 -->
+  <g opacity="0.5">
+    <circle cx="163" cy="566" r="26" fill="#374151" stroke="#6b7280" stroke-width="1"/>
+    <text x="163" y="562" text-anchor="middle" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="7" font-weight="bold">Netpractice</text>
+    <text x="163" y="576" text-anchor="middle" fill="#6b7280" font-family="system-ui, sans-serif" font-size="9">🚧</text>
+  </g>
+  
+  <!-- Cub3d (315°) | x=400+290*cos(-45°)=605, y=400+290*sin(-45°)=195 -->
+  <g opacity="0.5">
+    <circle cx="605" cy="195" r="26" fill="#374151" stroke="#6b7280" stroke-width="1"/>
+    <text x="605" y="191" text-anchor="middle" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="9" font-weight="bold">Cub3d</text>
+    <text x="605" y="205" text-anchor="middle" fill="#6b7280" font-family="system-ui, sans-serif" font-size="9">🚧</text>
+  </g>
+  
+  <!-- CPP 00-04 (350°) | x=400+290*cos(-10°)=686, y=400+290*sin(-10°)=350 -->
+  <g opacity="0.5">
+    <circle cx="686" cy="350" r="26" fill="#374151" stroke="#6b7280" stroke-width="1"/>
+    <text x="686" y="346" text-anchor="middle" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="7" font-weight="bold">CPP 00-04</text>
+    <text x="686" y="360" text-anchor="middle" fill="#6b7280" font-family="system-ui, sans-serif" font-size="9">🚧</text>
+  </g>
+  
+  <!-- ==================== CIRCLE 5 ==================== -->
+  <!-- Inception (210°) | x=400+350*cos(210°)=97, y=400+350*sin(210°)=225 -->
+  <g opacity="0.4">
+    <circle cx="97" cy="225" r="24" fill="#374151" stroke="#6b7280" stroke-width="1"/>
+    <text x="97" y="221" text-anchor="middle" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="8" font-weight="bold">Inception</text>
+    <text x="97" y="235" text-anchor="middle" fill="#6b7280" font-family="system-ui, sans-serif" font-size="9">🚧</text>
+  </g>
+  
+  <!-- ft_irc (30°) | x=400+350*cos(30°)=703, y=400+350*sin(30°)=575 -->
+  <g opacity="0.4">
+    <circle cx="703" cy="575" r="24" fill="#374151" stroke="#6b7280" stroke-width="1"/>
+    <text x="703" y="571" text-anchor="middle" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="9" font-weight="bold">ft_irc</text>
+    <text x="703" y="585" text-anchor="middle" fill="#6b7280" font-family="system-ui, sans-serif" font-size="9">🚧</text>
+  </g>
+  
+  <!-- CPP 05-09 (110°) | x=400+350*cos(110°)=280, y=400+350*sin(110°)=729 -->
+  <g opacity="0.4">
+    <circle cx="280" cy="729" r="24" fill="#374151" stroke="#6b7280" stroke-width="1"/>
+    <text x="280" y="725" text-anchor="middle" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="7" font-weight="bold">CPP 05-09</text>
+    <text x="280" y="739" text-anchor="middle" fill="#6b7280" font-family="system-ui, sans-serif" font-size="9">🚧</text>
+  </g>
+  
+  <!-- STUFF -->
+  <g transform="translate(20, 760)">
+    <circle cx="15" cy="10" r="8" fill="#065f46" stroke="#10b981" stroke-width="1.5"/>
+    <text x="30" y="14" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="10">Bonus (125)</text>
+    
+    <circle cx="130" cy="10" r="8" fill="#1e40af" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="145" y="14" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="10">Complete (100)</text>
+    
+    <circle cx="270" cy="10" r="8" fill="#1e3a5f" stroke="#0ea5e9" stroke-width="1.5"/>
+    <text x="285" y="14" fill="#7dd3fc" font-family="system-ui, sans-serif" font-size="10">Awaiting</text>
+    
+    <circle cx="365" cy="10" r="8" fill="#374151" stroke="#6b7280" stroke-width="1"/>
+    <text x="380" y="14" fill="#6b7280" font-family="system-ui, sans-serif" font-size="10">WIP</text>
+  </g>
+</svg>
