@@ -90,8 +90,8 @@
       </tr>
       <tr>
         <td align="center"><strong>Printf</strong></td>
-        <td align="center"><img alt="Completed" src="https://img.shields.io/badge/✔_Completed-1c40af"></td>
-        <td align="center"><img alt="Score" src="https://img.shields.io/badge/100/100-1c40af"></td>
+        <td align="center"><img alt="Completed" src="https://img.shields.io/badge/✔_Completed-062f24"></td>
+        <td align="center"><img alt="Score" src="https://img.shields.io/badge/100/100-062f24"></td>
         <td align="center"><strong>June 29th 2025</strong></td>
         <td align="center"><a href="https://github.com/baderelg/ft_printf">Doflamingo</a></td>
       </tr>
@@ -155,8 +155,8 @@
     <tbody>
       <tr>
         <td align="center"><strong>Philosophers</strong></td>
-        <td align="center"><img alt="Completed" src="https://img.shields.io/badge/✔_Completed-1c40af"></td>
-        <td align="center"><img alt="Score" src="https://img.shields.io/badge/100/100-1c40af"></td>
+        <td align="center"><img alt="Completed" src="https://img.shields.io/badge/✔_Completed-062f24"></td>
+        <td align="center"><img alt="Score" src="https://img.shields.io/badge/100/100-062f24"></td>
         <td align="center"><strong>February 13th 2025</strong></td>
         <td align="center"><a href="https://github.com/baderelg/Philosophers">Eleanor Shellstrop</a></td>
       </tr>
