@@ -145,8 +145,8 @@
     <circle cx="15" cy="10" r="8" fill="#065f46" stroke="#10b981" stroke-width="1.5"/>
     <text x="30" y="14" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="10">Bonus (125)</text>
     
-    <circle cx="130" cy="10" r="8" fill="#1e40af" stroke="#3b82f6" stroke-width="1.5"/>
-    <text x="145" y="14" fill="#93c5fd" font-family="system-ui, sans-serif" font-size="10">Complete (100)</text>
+    <circle cx="130" cy="10" r="8" fill="#062f24" stroke="#0A5D41" stroke-width="1.5"/>
+    <text x="145" y="14" fill="#9ad9bc" font-family="system-ui, sans-serif" font-size="10">Complete (100)</text>
     
     <circle cx="270" cy="10" r="8" fill="#1e3a5f" stroke="#0ea5e9" stroke-width="1.5"/>
     <text x="285" y="14" fill="#7dd3fc" font-family="system-ui, sans-serif" font-size="10">Awaiting</text>

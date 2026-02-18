@@ -40,6 +40,12 @@ Instead of just reading about the projects requirements, **experience** them thr
 </p>
 
 <p align="center">
+  <a href="https://github.com/baderelg/Pipex">
+    <img src="/img/banners/pipex.png" alt="Pipex by Lord Baelish" width="700">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/baderelg/Push_swap">
     <img src="/img/banners/push_swap.png" alt="Push_swap by Shikamaru" width="700">
   </a>
@@ -61,8 +67,8 @@ Instead of just reading about the projects requirements, **experience** them thr
 
 <div align="center">
 
-<a href="#"><img src="/img/resources/holy_graph.svg" alt="42 Holy Graph Progress" width="700"></a>
-
-<a href="https://github.com/baderelg/baderelg/blob/main/Cursus.md">More details →</a>
+<h3>
+<a href="https://github.com/baderelg/baderelg/blob/main/Cursus.md">Cursus progress →</a>
+</h>
 
 </div>

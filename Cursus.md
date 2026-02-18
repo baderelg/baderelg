@@ -1,5 +1,3 @@
-# 42 Cursus Progress
-
 <div align="center">
 
 [![42 School](https://img.shields.io/badge/Paris-blue?logo=42&logoColor=fff)](https://42.fr/en/homepage/)
@@ -18,7 +16,7 @@
 ---
 
 
-## Circle breakdown
+## Circles breakdown
 
 <div align="center">
 
