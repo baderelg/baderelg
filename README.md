@@ -63,8 +63,6 @@ Instead of just reading about the projects requirements, **experience** them thr
   </a>
 </p>
 
----
-
 <div align="center">
 
 <h3>
@@ -72,3 +70,11 @@ Instead of just reading about the projects requirements, **experience** them thr
 </h>
 
 </div>
+
+---
+
+<p align="center">
+  <a href="https://github.com/baderelg/Exam03_Backtracking">
+    <img src="/img/banners/e03-backtracking.png" alt="Backtracking by Yen" width="700">
+  </a>
+</p>
