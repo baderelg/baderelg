@@ -11,13 +11,13 @@ Instead of just reading about the projects requirements, **experience** them thr
 
 <p align="center">
   <a href="https://github.com/baderelg/Libft">
-    <img src="/img/banners/libft.png" alt="Libft by Ted Lasso" width="700">
+    <img src="img/banners/libft.png" alt="Libft by Ted Lasso" width="700">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/baderelg/Get_next_line">
-    <img src="/img/banners/gnl.png" alt="Get_next_line by Rorschach" width="700">
+    <img src="img/banners/gnl.png" alt="Get_next_line by Rorschach" width="700">
   </a>
 </p>
 
@@ -29,37 +29,37 @@ Instead of just reading about the projects requirements, **experience** them thr
 
 <p align="center">
   <a href="https://github.com/baderelg/ft_printf">
-    <img src="/img/banners/ft_printf.png" alt="ft_printf by Doflamingo" width="700">
+    <img src="img/banners/ft_printf.png" alt="ft_printf by Doflamingo" width="700">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/baderelg/Minitalk">
-    <img src="/img/banners/minitalk.png" alt="Minitalk by Lord Varys" width="700">
+    <img src="img/banners/minitalk.png" alt="Minitalk by Lord Varys" width="700">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/baderelg/Pipex">
-    <img src="/img/banners/pipex.png" alt="Pipex by Lord Baelish" width="700">
+    <img src="img/banners/pipex.png" alt="Pipex by Lord Baelish" width="700">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/baderelg/Push_swap">
-    <img src="/img/banners/push_swap.png" alt="Push_swap by Shikamaru" width="700">
+    <img src="img/banners/push_swap.png" alt="Push_swap by Shikamaru" width="700">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/baderelg/Fractol">
-    <img src="/img/banners/fractol.png" alt="Fractol by Johnny Silverhand" width="700">
+    <img src="img/banners/fractol.png" alt="Fractol by Johnny Silverhand" width="700">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/baderelg/Philosophers">
-    <img src="/img/banners/Philosophers.png" alt="Philosophers by Eleanor" width="700">
+    <img src="img/banners/Philosophers.png" alt="Philosophers by Eleanor" width="700">
   </a>
 </p>
 
@@ -75,6 +75,6 @@ Instead of just reading about the projects requirements, **experience** them thr
 
 <p align="center">
   <a href="https://github.com/baderelg/Exam03_Backtracking">
-    <img src="/img/banners/e03-backtracking.png" alt="Backtracking by Yen" width="700">
+    <img src="img/banners/e03-backtracking.png" alt="Backtracking by Yen" width="700">
   </a>
 </p>

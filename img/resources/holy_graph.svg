@@ -91,9 +91,9 @@
   
   <!-- Minishell (20°) | x=400+230*cos(20°)=616, y=400+230*sin(20°)=479 -->
   <g filter="url(#circleGlow)">
-    <circle cx="616" cy="479" r="30" fill="#1e3a5f" stroke="#0ea5e9" stroke-width="2"/>
-    <text x="616" y="475" text-anchor="middle" fill="#e0f2fe" font-family="system-ui, sans-serif" font-size="9" font-weight="bold">Minishell</text>
-    <text x="616" y="489" text-anchor="middle" fill="#7dd3fc" font-family="system-ui, sans-serif" font-size="9">⏳</text>
+    <circle cx="616" cy="479" r="30" fill="#065f46" stroke="#10b981" stroke-width="2"/>
+    <text x="616" y="475" text-anchor="middle" fill="#ecfdf5" font-family="system-ui, sans-serif" font-size="9" font-weight="bold">Minishell</text>
+    <text x="616" y="489" text-anchor="middle" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="9">125</text>
   </g>
   
   <!-- ==================== CIRCLE 4 ==================== -->

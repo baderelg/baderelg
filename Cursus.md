@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<a href="#"><img src="/img/resources/holy_graph.svg" alt="42 Holy Graph Progress" width="700"></a>
+<a href="#"><img src="img/resources/holy_graph.svg" alt="42 Holy Graph Progress" width="700"></a>
 
 </div>
 
@@ -25,7 +25,7 @@
 | **0** | ![100%](https://img.shields.io/badge/100%25-065f46) | 1 / 1 | 125 |
 | **1** | ![100%](https://img.shields.io/badge/100%25-065f46) | 3 / 3 | 116.7 |
 | **2** | ![100%](https://img.shields.io/badge/100%25-065f46) | 3 / 3 | 125 |
-| **3** | ![50%](https://img.shields.io/badge/50%25-1e3a5f) | 1 / 2 | 100 |
+| **3** | ![100%](https://img.shields.io/badge/100%25-065f46) | 2 / 2 | 112.5 |
 | **4** | ![0%](https://img.shields.io/badge/0%25-374151) | 0 / 3 | — |
 | **5** | ![0%](https://img.shields.io/badge/0%25-374151) | 0 / 3 | — |
 
@@ -160,10 +160,10 @@
       </tr>
       <tr>
         <td align="center"><strong>Minishell</strong></td>
-        <td align="center"><img alt="Awaiting Evaluation" src="https://img.shields.io/badge/🕵️_Awaiting_Evaluation-1e3a5f"></td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><img alt="Bonus" src="https://img.shields.io/badge/🌟_Completed_with_Bonus-005f47"></td>
+        <td align="center"><img alt="Score" src="https://img.shields.io/badge/125/100-005f47"></td>
+        <td align="center"><strong>March 12th 2025</strong></td>
+        <td align="center">WIP</td>
       </tr>
   </table>
 </div>
